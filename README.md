@@ -1,5 +1,7 @@
 # MERN-Backend-Chat
 
+npm install for node modules
+
 npm start for client and server.
 
 server localhost://5001
